@@ -1,6 +1,6 @@
 # 🧮 Calculadora em Python
 
-![preview](./src/preview/code.png)
+![preview](./app/src/preview/code.png)
 
 ## 📌 Sobre o Projeto
 
@@ -93,7 +93,17 @@ Este projeto está em constante evolução. As próximas melhorias incluem:
 
 ```bash
 .
-├── calculator.py
+├── app/
+│   ├── calculator.py
+│   └── src/
+│       ├── preview/
+│       │   └── code.png
+│       └── services/
+│           ├── calculation.py
+│           ├── conversor.py
+│           └── info.py
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
