@@ -5,7 +5,7 @@ expressao = []  # Lista que armazena sequencialmente números e operadores forma
 
 def menu():
     print("-=-" * 12)
-    print("CALCULADORA EM PYTHON v0.1.0")
+    print("CALCULADORA EM PYTHON v0.2.0")
     print("-=-" * 12)
 
     print("\n[CALC] CALCULAR")
